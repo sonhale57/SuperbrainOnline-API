@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperbrainOnline API", "SuperbrainOnline API\SuperbrainOnline API.csproj", "{A20C103B-9481-4DE5-A29E-796C582270D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A20C103B-9481-4DE5-A29E-796C582270D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A20C103B-9481-4DE5-A29E-796C582270D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A20C103B-9481-4DE5-A29E-796C582270D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A20C103B-9481-4DE5-A29E-796C582270D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82CE6263-2897-41F3-8F1D-54FC779468C6}
+	EndGlobalSection
+EndGlobal
